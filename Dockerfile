@@ -1,4 +1,4 @@
-FROM alpine:3.19
+FROM alpine:3.21
 
 # Define a build argment that can be supplied when building the container
 # You can then do the following:
