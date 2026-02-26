@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@alicloud/pop-core": "^1.7.10",
-    "@azure/data-tables": "13.2.2",
+    "@azure/data-tables": "13.3.0",
     "@azure/storage-blob": "12.16.0",
     "@azure/storage-file-share": "12.16.0",
     "@azure/storage-queue": "12.15.0",
